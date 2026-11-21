@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "skills": {
+    "Pandas Data Analysis": {
+      "source": "pluginagentmarketplace/custom-plugin-python",
+      "commit": "44155176545a0add3265a1b8ac8e632bd1b75934",
+      "sourceType": "github",
+      "skillPath": "skills/pandas-data-analysis/SKILL.md",
+      "computedHash": "f9965d8c62bec55bf119ac2cb2745022c606f9c868c35da23b7e1b0fcf701d05"
+    },
+    "create-readme": {
+      "source": "github/awesome-copilot",
+      "commit": "f10fdb8b2660ce85c98f220b2f1ca24653768a5c",
+      "sourceType": "github",
+      "skillPath": "skills/create-readme/SKILL.md",
+      "computedHash": "59e7a20cc6e183f31c0161a619b66f96d05656378c1cef886522b6845d33c953"
+    },
+    "data-visualization": {
+      "source": "anthropics/knowledge-work-plugins",
+      "commit": "0e0fcacddcc892eb92a1b7873ff9d68159c47571",
+      "sourceType": "github",
+      "skillPath": "data/skills/data-visualization/SKILL.md",
+      "computedHash": "2d313aa0dc3624db43c11139b10cb2e3e7a264fae1a687ad097d3d0a2fad016b"
+    },
+    "matplotlib-best-practices": {
+      "source": "Mindrally/skills",
+      "commit": "7682ca77710e0971eab4e0ae5dddfa281aea0ba5",
+      "sourceType": "github",
+      "skillPath": "matplotlib-best-practices/SKILL.md",
+      "computedHash": "a7a2569d9df06e8115cdb24688aa1447b9de12c3af695f3e143404a4857d383b"
+    },
+    "numpy": {
+      "source": "microsoft/debugpy",
+      "commit": "82944695ed500b159edbcf4f17ca48d00a96f2c1",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/numpy/SKILL.md",
+      "computedHash": "13670d37494f8d0e3ecf183d2a53b138f064484f7efe4f98694fe2ab2411c165"
+    },
+    "pandas-pro": {
+      "source": "Jeffallan/claude-skills",
+      "commit": "4b94d98605baf742b751bb82832ace5caf942271",
+      "sourceType": "github",
+      "skillPath": "skills/pandas-pro/SKILL.md",
+      "computedHash": "3ab6f8326c1a7228532c79f7c11af4bc8820ff7a765948ebf4d0ca29d111039f"
+    },
+    "python-design-patterns": {
+      "source": "wshobson/agents",
+      "commit": "91ff75307f5668916f3eb77d5ba556266c961376",
+      "sourceType": "github",
+      "skillPath": "plugins/python-development/skills/python-design-patterns/SKILL.md",
+      "computedHash": "bb31c26764cb2bf8f19955e1610e8102509cb1569e1575a413ffb3ada23a3c16"
+    },
+    "python-scientific-computing": {
+      "source": "vamseeachanta/workspace-hub",
+      "commit": "c3692ea72bd598ac8e2feae38d41154d6557ad18",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/data/scientific/python-scientific-computing/SKILL.md",
+      "computedHash": "6b036f85ae52c538a7d95e3e86f0b145543ae4798e0dd38c2ad87287cc8fdd71"
+    },
+    "statistics-math": {
+      "source": "pluginagentmarketplace/custom-plugin-data-engineer",
+      "commit": "0322b7c023bf4d0b882d547a6947da3e5a9f92a2",
+      "sourceType": "github",
+      "skillPath": "skills/statistics-math/SKILL.md",
+      "computedHash": "b3a10c9ecd72a469e7689ee89d9d0cb03fda492ab04d34c363134ee2c368cedc"
+    }
+  }
+}
